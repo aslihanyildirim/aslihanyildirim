@@ -1,5 +1,5 @@
 
-Merhaba, ben Aslıhan Yıldırım. Kahramanmaraş Sütçü İmam Üniversitesi 1. sınıf Bilgisayar Mühendisliği öğrencisiyim. C ve C++ ile ilgileniyorum. 
+Merhaba, ben Aslıhan Yıldırım. Bilgisayar Mühendisliği 1. sınıf öğrencisiyim.
 
 <!---
 aslihanyildirim/aslihanyildirim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
